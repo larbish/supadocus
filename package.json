@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-supabase-docs",
+  "description": "Nuxt x Supabase Module Docs",
+  "type": "module",
+  "scripts": {
+    "build": "docus build",
+    "dev": "docus dev"
+  },
+  "devDependencies": {
+    "@larbish/docus": "latest"
+  }
+}
