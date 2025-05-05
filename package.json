@@ -8,5 +8,6 @@
   },
   "devDependencies": {
     "@larbish/docus": "latest"
-  }
+  },
+  "packageManager": "pnpm@10.10.0"
 }
